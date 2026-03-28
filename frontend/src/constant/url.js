@@ -1,1 +1,1 @@
-export const BASE_URL = "https://x-clone-kvmm.onrender.com/"
+export const BASE_URL = "https://x-clone-kvmm.onrender.com"
